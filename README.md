@@ -97,9 +97,6 @@
 
 --- 
 
-Ce fichier `README.md` est conçu pour expliquer les concepts et commandes clairement, tout en restant concis et informatif. 😊
-
-
 
 # TD n°2 : GitHub Action, Issue and Pull Request
 
@@ -117,4 +114,4 @@ Ce fichier `README.md` est conçu pour expliquer les concepts et commandes clair
 
 # Statuts actions
 
-Ce projet est actuellement en déverloppement Nous allons automatiser notre dépôt
+Ce projet est actuellement en développement Nous allons automatiser notre dépôt
